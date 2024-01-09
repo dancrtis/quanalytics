@@ -1,0 +1,23 @@
+{
+  "name": "quanalytics",
+  "version": "0.0.2",
+  "description": "A simple, privacy-focused analytics library for NextJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancrtis/quanalytics.git"
+  },
+  "keywords": [
+    "NextJS",
+    "React",
+    "Analytics",
+    "NodeJS"
+  ],
+  "author": "Dan Curtis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dancrtis/quanalytics/issues"
+  },
+  "homepage": "https://github.com/dancrtis/quanalytics#readme"
+}
