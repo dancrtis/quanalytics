@@ -13,7 +13,7 @@ async function quanalytics({ request, project, apiKey }) {
   const headers = Object.fromEntries(request.headers.entries());
 
   if (page.includes('/_next')) {
-    return NextResponse.next();
+    return;
   }
 
   await fetch('https://api.quanalytics.co/v1/analytics/perf', {
