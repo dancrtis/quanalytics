@@ -1,6 +1,6 @@
 {
   "name": "quanalytics",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "A simple, privacy-focused analytics library for NextJS",
   "main": "index.js",
   "scripts": {},
